@@ -7,3 +7,5 @@
 ## Videos external resources
 
 ## Links external resources
+
+- [React official tutorial site](https://react.dev/)
